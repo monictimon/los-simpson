@@ -1,0 +1,280 @@
+*{
+    box-sizing: border-box;
+
+}
+body {
+    background-color: wheat;
+    margin: 0;
+    padding: 0;
+
+}
+.box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.caja1 {
+    background-color: blue;
+    
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+
+}
+.caja2 {
+    background-color: aquamarine;
+    
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+}
+.caja3 {
+    background-color: blue;
+   
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+}
+.caja4 {
+    background-color: aquamarine;
+    
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+}
+.caja5 {
+    background-color: blue;
+   
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+}
+.caja6 {
+    background-color: aquamarine;
+    
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+
+}
+.caja7 {
+    background-color: blue;
+   
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+}
+
+.caja8 {
+    background-color: aquamarine;
+    
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+
+}
+.caja9 {
+    background-color: blue;
+    
+    width: 11.11%;
+    height: 115px;
+    padding: 3rem;
+    float: left;
+}
+
+
+.caja10 {
+    background-color: yellow;
+    padding: 3rem;
+    width: 25%;
+    height: 350px;
+    
+    float: left;
+
+}
+.caja11 {
+    background-color: orange;
+    padding: 3rem;
+    width: 75%;
+    height: 350px;
+    
+    float: left;
+
+}
+
+
+.caja12 {
+    background-color: pink;
+    padding: 3rem;
+    width: 25%;
+    height: 250px;
+    padding: 3rem;
+    float: left;
+
+}
+.caja13 {
+    background-color: rgb(209, 28, 58);
+    padding: 3rem;
+    width: 25%;
+    height: 250px;
+    padding: 3rem;
+    float: left;
+
+}
+.caja14 {
+    background-color: rgb(85, 27, 37);
+    padding: 3rem;
+    width: 25%;
+    height: 250px;
+    padding: 3rem;
+    float: left;
+
+}
+.caja15 {
+    background-color: rgb(24, 18, 19);
+    padding: 3rem;
+    width: 25%;
+    height: 250px;
+    padding: 3rem;
+    float: left;
+
+}
+
+
+.caja16 {
+    background-color: green;
+    padding: 3rem;
+    width: 65%;
+    height: 200px;
+    padding: 2rem;
+    float: left;
+}
+.caja17 {
+    background-color: rgb(142, 226, 142);
+    padding: 3rem;
+    width: 35%;
+    height: 200px;
+    padding: 2rem;
+    float: left;
+}
+
+
+.caja18 {
+    background-color: brown;
+    width: 50%;
+    height: 200px;
+    float: left;
+    
+}
+.caja19 {
+    background-color: rgb(85, 26, 26);
+    width: 50%;
+    height: 200px;
+    float: left;
+    
+}
+
+
+.caja20 {
+    background-color:purple;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja21 {
+    background-color:rgb(253, 4, 253);
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja22 {
+    background-color:purple;
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja23 {
+    background-color:rgb(253, 5, 253);
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja24 {
+    background-color:purple;
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja25 {
+    background-color:rgb(245, 8, 245);
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja26 {
+    background-color: purple;
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja27 {
+    background-color:rgb(253, 7, 253);
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja28 {
+    background-color:purple;
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja29 {
+    background-color:rgb(248, 6, 248);
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja30 {
+    background-color:purple;
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}
+.caja31 {
+    background-color:rgb(248, 6, 248);
+    padding: 3rem;
+    width: 8.33%;
+    height: 250px;
+    float: left;
+    
+}   
+

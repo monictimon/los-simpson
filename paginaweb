@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <div class="flex-container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12 alturaBoton">
+                    <a href="index.html">
+                        Home
+                    </a>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12 alturaBoton2">
+                    <a href="moe.html">
+                        Bar de Moe
+                    </a>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12 alturaBoton">Escuela</div>
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12 alturaBoton2">Planta Nuclear</div>
+            </div>
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 slider">
+                    <h1>Estoy triunfando</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-4 col-sm-2 col-md-2 col-lg-2 col-xl-2 marge">
+                    <h1>Soy marge</h1>
+                </div>
+                <div class="col-xs-8 col-sm-10 col-md-10 col-lg-10 col-xl-10">
+                    <div class="row">
+                        <div class="homer">
+                            soy homero
+                        </div>
+                        <div class="bart">
+                            soy bart
+                        </div>
+                        
+                    </div>
+                    <div class="row">
+                        <div class="bart">
+                            soy homero
+                        </div>
+                        <div class="homer">
+                            soy bart
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        flexbox gird 
+    </body>
+
+
+</html>
+
+        

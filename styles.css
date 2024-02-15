@@ -1,0 +1,219 @@
+* {
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+#container1 {
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 0, 0);
+    margin: auto;
+    justify-content: left;
+}
+body{
+    font-family: 'Kalam', cursive;
+    flex-wrap: wrap;
+    display: flex;
+    margin: 0;
+    padding: 0%;
+}
+.box01, .box02, .box03, .box04, .box05 {
+    width: 25%;
+    height: 90px;
+    float: left;
+
+}
+
+.box01 {
+    background-color: rgb(255, 98, 0);
+    text-decoration: none;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.box01:hover{
+    background-color:rgb(0, 153, 255);
+    
+    color: blue;
+}
+
+.box02 {
+    background-color: rgb(0, 153, 255);
+    text-decoration: none;
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.box02:hover{
+    background-color: rgb(255, 98, 0 );
+   color: orange;
+}
+
+.box03 {
+    background-color: rgb(255, 98, 0);
+    text-decoration: none;
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+.box03:hover{
+    background-color: rgb(0, 153, 255);
+    color: blue;
+}
+
+.box04 {
+    background-color: rgb(0, 153, 255);
+    text-decoration: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.box04:hover{
+    background-color: rgb(255, 98, 0);
+    
+    color: orange;
+}
+
+.box05 {
+    width: 100%;
+    height: 670px;
+    background-color: yellow;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.img1 {
+    width: 100%;
+    height: 100%;
+}
+
+
+.box06, .box07, .box08, .box09 {
+    width: 35%;
+    height: 370px;
+   float: left;
+}
+
+.box06 {
+    background-color: rgb(255, 165, 0); 
+    align-items: center;
+
+}
+.img2 {
+    width: 250px;
+    height: 250px;
+
+}
+
+
+.box07 {
+    background-color: rgb(0, 30, 255); 
+    text-align: center;
+
+}
+.img3 {
+    width: 250px;
+    height: 250px;
+}
+.box08{
+    background-color: rgb(0, 30, 255); 
+    text-align: center;
+    
+    background-repeat: no-repeat;
+    
+}
+.img4 {
+    width: 250px;
+    height: 250px;
+    background-position: left;
+
+}
+
+.box09{
+    background-color: rgb(255, 165, 0); 
+    text-align: center;
+
+    background-repeat: no-repeat;
+}
+.img5 {
+    width: 250px;
+    height: 250px;
+   
+    justify-content: center;
+
+}
+.box10 {
+    width: 30%; 
+    height: 740px; 
+    background-color: rgb(99, 99, 255);
+    float: left;
+
+}  
+.img6 {
+    width: 600px;
+    height: 600px;  
+}
+
+
+.box1 {
+    width: 40%;
+    height: 700px;
+    background-color: azure;
+    float: left;
+}
+.box2 {
+    width: 60%;
+    height: 700px;
+    background-color: rgb(117, 126, 240);
+    float: left;
+}  
+.img01 {
+    width: 600px;
+    height: 670px;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+}
+#container2 {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+.box3 {
+    width: 100%;
+    height: 600px;
+    background-color: rgb(117, 126, 240);
+}
+.box4 {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(117, 126, 240);
+    justify-content: center;
+    text-align: center;
+}
+#container3 {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
